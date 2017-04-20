@@ -16,7 +16,7 @@ Levantamento de informações úteis já disponíveis, aglomerando dados de port
 // Funcionalidades para condominos
 - Empresas ativas no condominio
 - Classificados (anúncios dos condominos)
-- Prestadores de serviço (Internet, TV)
+- Prestadores de serviço (Internet, TV, Gás)
 
 // Funcionalidades administrativas
 - Agenda do condomino
