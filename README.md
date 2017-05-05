@@ -19,8 +19,9 @@ Levantamento de informações úteis já disponíveis, aglomerando dados de port
 - Prestadores de serviço (Internet, TV, Gás)
 
 ## Funcionalidades administrativas
-- Agenda do condomino
-- Fale com a administração (Sindico e Conselho)
+- Agenda do condomino;
+- Atas de reuniões passadas;
+- Fale com a administração (Sindico e Conselho);
 
 ## Seção de Fotos
 - Ver com pessoal que tira boas fotos do prédio e da região para agregar; bem como colocar de pessoas que autorizem a publicação buscando promover a integração entre condominos.
