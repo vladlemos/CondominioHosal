@@ -1,7 +1,7 @@
 # CondominioHosal
 Projeto de treinamento de conhecimentos de HTML, CSS, JS, e incrementando talvez com banco de dados e PHP no qual se cria um site para informações, contato e sugestões;
 
-# dia 19/04 v.0.1
+# dia 01/06 v.0.4
 
 Levantamento de informações úteis já disponíveis, aglomerando dados de portais públicos como www.consultaiptu.com documentos e áreas que podem ser realizadas como serviços para integrar moradores e administração. Como idéias iniciais foram pensadas algumas áreas para o site:
 
@@ -10,11 +10,11 @@ Levantamento de informações úteis já disponíveis, aglomerando dados de port
 - História do prédio
 - Sindico em exercício
 - Integrantes do Conselho
-- Documentos do condomínio (Estatuto)
+- Documentos do condomínio (Estatuto);
 - Link da administradora
 
 ## Funcionalidades para condominos
-- Empresas ativas no condominio
+- Empresas ativas no condominio (publicidade dos empreendedores do prédio)
 - Classificados (anúncios dos condominos)
 - Prestadores de serviço (Internet, TV, Gás)
 
