@@ -26,6 +26,11 @@ Levantamento de informações úteis já disponíveis, aglomerando dados de port
 ## Seção de Fotos
 - Ver com pessoal que tira boas fotos do prédio e da região para agregar; bem como colocar de pessoas que autorizem a publicação buscando promover a integração entre condominos.
 
+
+## Artigos mensais de temas relativos à convivência
+- seleção de textos e/ou publicação de mensagens do corpo diretivo com relação ao desafio de tocar um condominio na capital de SP;
+
+
 Usar as melhores práticas nas linguagens, escolher uso de frameworks e otimizar métodos de atualização, sobretudo de áreas com dinâmica e interatividade, caminhando para construção de app mobile.
 
 
