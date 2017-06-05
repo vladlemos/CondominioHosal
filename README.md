@@ -3,7 +3,7 @@ Projeto de treinamento de conhecimentos de HTML, CSS, JS, e incrementando talvez
 
 # dia 01/06 v.0.4
 
-Levantamento de informações úteis já disponíveis, aglomerando dados de portais públicos como www.consultaiptu.com documentos e áreas que podem ser realizadas como serviços para integrar moradores e administração. Como idéias iniciais foram pensadas algumas áreas para o site:
+Levantamento de informações úteis já disponíveis, aglomerando dados de portais públicos como http://consultaiptusp.com/ documentos e áreas que podem ser realizadas como serviços para integrar moradores e administração. Como idéias iniciais foram pensadas algumas áreas para o site:
 
 ## Sobre o condominio (Single/Page) com:
 
